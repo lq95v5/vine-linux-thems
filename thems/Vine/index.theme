@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Vine
+Name[ja]=Vine
+Type=X-GNOME-Metatheme
+Comment=Vine Linux Default Theme
+Comment[ja]=Vine Linux デフォルトテーマ
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Vine
+MetacityTheme=Vine
+IconTheme=Vine
